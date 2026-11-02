@@ -1,5 +1,5 @@
 {
-  "version": "1",
+  "version": "2",
   "files": [
     {
       "path": "cards/card_030.png",
@@ -16,6 +16,38 @@
     {
       "path": "cards/card_017.png",
       "size": 322214
+    },
+    {
+      "path": "cards/card_wolf.png",
+      "size": 301744
+    },
+    {
+      "path": "cards/card_bhj.png",
+      "size": 278032
+    },
+    {
+      "path": "cards/card_gjzb.png",
+      "size": 284871
+    },
+    {
+      "path": "cards/card_qxys.png",
+      "size": 347443
+    },
+    {
+      "path": "cards/card_yinghe.png",
+      "size": 295899
+    },
+    {
+      "path": "cards/card_zsxf.png",
+      "size": 313399
+    },
+    {
+      "path": "cards/card_night.png",
+      "size": 380214
+    },
+    {
+      "path": "cards/card_gm.png",
+      "size": 275816
     }
   ]
 }
