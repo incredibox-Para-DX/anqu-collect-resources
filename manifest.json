@@ -1,5 +1,5 @@
 {
-  "version": "v7",
+  "version": "v8",
   "files": [
     {
       "path": "avatars/6H2gtoUS.png",
@@ -156,6 +156,134 @@
     {
       "path": "collect/img_f923762915.jpg",
       "size": 720648
+    },
+    {
+      "path": "lion/anim/FP_Aircraft_Check.glb",
+      "size": 285644
+    },
+    {
+      "path": "lion/anim/FP_Atomic_Clock_Check.001.glb",
+      "size": 294328
+    },
+    {
+      "path": "lion/anim/FP_Ball_Check.glb",
+      "size": 284840
+    },
+    {
+      "path": "lion/anim/FP_Barbell_Check.001.glb",
+      "size": 301028
+    },
+    {
+      "path": "lion/anim/FP_BarterEMmodule_Check.glb",
+      "size": 290148
+    },
+    {
+      "path": "lion/anim/FP_BirdsongCage_Check.glb",
+      "size": 535036
+    },
+    {
+      "path": "lion/anim/FP_Catapultspart_Check.glb",
+      "size": 285220
+    },
+    {
+      "path": "lion/anim/FP_Confidential_Potion_Check.glb",
+      "size": 309564
+    },
+    {
+      "path": "lion/anim/FP_David_Check.glb",
+      "size": 512108
+    },
+    {
+      "path": "lion/anim/FP_DoomsdayClock_Check.glb",
+      "size": 465068
+    },
+    {
+      "path": "lion/anim/FP_Figurines_Check.glb",
+      "size": 258268
+    },
+    {
+      "path": "lion/anim/FP_GenstoneNeckless_Check.glb",
+      "size": 375380
+    },
+    {
+      "path": "lion/anim/FP_HandModels_Check.glb",
+      "size": 327880
+    },
+    {
+      "path": "lion/anim/FP_Horse_Check.glb",
+      "size": 311824
+    },
+    {
+      "path": "lion/anim/FP_InCommonUse_Check.001.glb",
+      "size": 256808
+    },
+    {
+      "path": "lion/anim/FP_LTM_Check.glb",
+      "size": 395964
+    },
+    {
+      "path": "lion/anim/FP_Lion_Check.003.glb",
+      "size": 402456
+    },
+    {
+      "path": "lion/anim/FP_Lion_Check.glb",
+      "size": 345496
+    },
+    {
+      "path": "lion/anim/FP_MechanicalArm_Check.glb",
+      "size": 379324
+    },
+    {
+      "path": "lion/anim/FP_OilPainting_Check.glb",
+      "size": 463028
+    },
+    {
+      "path": "lion/anim/FP_PB_EVA_RobotBust_Check.glb",
+      "size": 254136
+    },
+    {
+      "path": "lion/anim/FP_SQ_Eve_Check.glb",
+      "size": 317404
+    },
+    {
+      "path": "lion/anim/FP_SQ_Kroos_Check.glb",
+      "size": 291500
+    },
+    {
+      "path": "lion/anim/FP_Samplecombination_Box_Check.glb",
+      "size": 306788
+    },
+    {
+      "path": "lion/anim/FP_SecretFile_Check.glb",
+      "size": 325912
+    },
+    {
+      "path": "lion/anim/FP_Snakestatue_Check.glb",
+      "size": 441036
+    },
+    {
+      "path": "lion/anim/FP_SpaceColony_Check.glb",
+      "size": 349472
+    },
+    {
+      "path": "lion/anim/FP_SpaceNavigator_Check.glb",
+      "size": 653984
+    },
+    {
+      "path": "lion/anim/FP_SuperComputerModule_Check.glb",
+      "size": 438376
+    },
+    {
+      "path": "lion/anim/FP_TeaPot_Check.glb",
+      "size": 359012
+    },
+    {
+      "path": "lion/anim/FP_Vase_Check.glb",
+      "size": 439232
+    },
+    {
+      "path": "lion/anim/FP_XCompoundKit_Check.glb",
+      "size": 282736
     },
     {
       "path": "lion/bernard1.glb",
