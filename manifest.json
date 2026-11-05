@@ -1,5 +1,5 @@
 {
-  "version": "v4",
+  "version": "v5",
   "files": [
     {
       "path": "avatars/6H2gtoUS.png",
@@ -156,6 +156,30 @@
     {
       "path": "collect/img_f923762915.jpg",
       "size": 720648
+    },
+    {
+      "path": "lion/bernard1.glb",
+      "size": 980992
+    },
+    {
+      "path": "lion/bernard2.glb",
+      "size": 846132
+    },
+    {
+      "path": "lion/bernard3.glb",
+      "size": 968692
+    },
+    {
+      "path": "lion/bernard_gloves_D.png",
+      "size": 93905
+    },
+    {
+      "path": "lion/bernard_gloves_MAR.png",
+      "size": 25085
+    },
+    {
+      "path": "lion/bernard_gloves_N.png",
+      "size": 115866
     },
     {
       "path": "lion/character.glb",
