@@ -1,1 +1,774 @@
-{"version": "v3", "files": [{"path": "avatars/6H2gtoUS.png", "size": 34436}, {"path": "cards/card_017.png", "size": 322214}, {"path": "cards/card_030.png", "size": 348159}, {"path": "cards/card_047.png", "size": 476730}, {"path": "cards/card_052.png", "size": 376175}, {"path": "cards/card_bhj.png", "size": 278032}, {"path": "cards/card_gjzb.png", "size": 284871}, {"path": "cards/card_gm.png", "size": 275816}, {"path": "cards/card_night.png", "size": 380214}, {"path": "cards/card_qxys.png", "size": 347443}, {"path": "cards/card_wolf.png", "size": 301744}, {"path": "cards/card_yinghe.png", "size": 295899}, {"path": "cards/card_zsxf.png", "size": 313399}, {"path": "cards/manifest.json", "size": 885}, {"path": "collect/400.jpg", "size": 684789}, {"path": "collect/img_271c408224.jpg", "size": 711159}, {"path": "collect/img_31a2709271.jpg", "size": 713912}, {"path": "collect/img_37150efe31.jpg", "size": 740186}, {"path": "collect/img_55da8a9c7a.jpg", "size": 626200}, {"path": "collect/img_5a780ac719.jpg", "size": 716922}, {"path": "collect/img_6aeeaace20.jpg", "size": 713166}, {"path": "collect/img_737bbd84ed.jpg", "size": 703336}, {"path": "collect/img_7610daa96c.jpg", "size": 723479}, {"path": "collect/img_7b748eb857.jpg", "size": 710675}, {"path": "collect/img_7c8eb5c849.jpg", "size": 627133}, {"path": "collect/img_80a7f5ad99.png", "size": 965455}, {"path": "collect/img_86be2efc8e.jpg", "size": 727977}, {"path": "collect/img_8b4310f2d2.jpg", "size": 712551}, {"path": "collect/img_8c91545379.jpg", "size": 713017}, {"path": "collect/img_8d9ab9be88.jpg", "size": 715473}, {"path": "collect/img_93d5c9d9b5.jpg", "size": 626161}, {"path": "collect/img_b3431e7295.jpg", "size": 698912}, {"path": "collect/img_b867e932ea.jpg", "size": 726223}, {"path": "collect/img_c90e5d6d40.jpg", "size": 724900}, {"path": "collect/img_c9984fa547.jpg", "size": 709529}, {"path": "collect/img_e3e8e2a20c.png", "size": 2212333}, {"path": "collect/img_ec2dc3a378.png", "size": 790274}, {"path": "collect/img_f70f42c369.jpg", "size": 738783}, {"path": "collect/img_f923762915.jpg", "size": 720648}, {"path": "lion/character.glb", "size": 2976152}, {"path": "lion/fp_character.glb", "size": 10493292}, {"path": "lion/g01.glb", "size": 120036}, {"path": "lion/g02.glb", "size": 131448}, {"path": "lion/g03.glb", "size": 122152}, {"path": "lion/g04.glb", "size": 159876}, {"path": "lion/g05.glb", "size": 217160}, {"path": "lion/g06.glb", "size": 209352}, {"path": "lion/g07.glb", "size": 255392}, {"path": "lion/g08.glb", "size": 264772}, {"path": "lion/g09.glb", "size": 512352}, {"path": "lion/g10.glb", "size": 198788}, {"path": "lion/g11.glb", "size": 226392}, {"path": "lion/g12.glb", "size": 180104}, {"path": "lion/g13.glb", "size": 495724}, {"path": "lion/g14.glb", "size": 231188}, {"path": "lion/g15.glb", "size": 226392}, {"path": "lion/g16.glb", "size": 238968}, {"path": "lion/g17.glb", "size": 460204}, {"path": "lion/g18.glb", "size": 177236}, {"path": "lion/gloves_kurt_quit.glb", "size": 134652}, {"path": "lion/gloves_kurt_uit.glb", "size": 134652}, {"path": "lion/gloves_rolf_uit.glb", "size": 184372}, {"path": "lion/gloves_snow_retarget.glb", "size": 435800}, {"path": "lion/gloves_xmas_uit.glb", "size": 231580}, {"path": "lion/items/atomic_clock.glb", "size": 378900}, {"path": "lion/items/catapult_part.glb", "size": 258940}, {"path": "lion/items/compute_module.glb", "size": 374972}, {"path": "lion/items/dawn.glb", "size": 244004}, {"path": "lion/items/erision.glb", "size": 352876}, {"path": "lion/items/feast_statue.glb", "size": 137140}, {"path": "lion/items/gem_necklace.glb", "size": 129560}, {"path": "lion/items/golden_palace.glb", "size": 416568}, {"path": "lion/items/golden_steed.glb", "size": 198444}, {"path": "lion/items/gyro_ball.glb", "size": 151532}, {"path": "lion/items/mech_arm.glb", "size": 332484}, {"path": "lion/items/new_frontier.glb", "size": 229336}, {"path": "lion/items/space_nav.glb", "size": 474728}, {"path": "lion/items/target_module.glb", "size": 453592}, {"path": "lion/items/teapot.glb", "size": 36056}, {"path": "lion/items/vase.glb", "size": 111696}, {"path": "lion/kurt_character.glb", "size": 1735968}, {"path": "lion/lion.glb", "size": 353016}, {"path": "lion/secretfile.glb", "size": 78768}, {"path": "lion/secretfile_character.glb", "size": 2202672}, {"path": "lion/xcompound.glb", "size": 148532}], "totalSize": 51307030}
+{
+  "version": "v4",
+  "files": [
+    {
+      "path": "avatars/6H2gtoUS.png",
+      "size": 34436
+    },
+    {
+      "path": "cards/card_017.png",
+      "size": 322214
+    },
+    {
+      "path": "cards/card_030.png",
+      "size": 348159
+    },
+    {
+      "path": "cards/card_047.png",
+      "size": 476730
+    },
+    {
+      "path": "cards/card_052.png",
+      "size": 376175
+    },
+    {
+      "path": "cards/card_bhj.png",
+      "size": 278032
+    },
+    {
+      "path": "cards/card_gjzb.png",
+      "size": 284871
+    },
+    {
+      "path": "cards/card_gm.png",
+      "size": 275816
+    },
+    {
+      "path": "cards/card_night.png",
+      "size": 380214
+    },
+    {
+      "path": "cards/card_qxys.png",
+      "size": 347443
+    },
+    {
+      "path": "cards/card_wolf.png",
+      "size": 301744
+    },
+    {
+      "path": "cards/card_yinghe.png",
+      "size": 295899
+    },
+    {
+      "path": "cards/card_zsxf.png",
+      "size": 313399
+    },
+    {
+      "path": "cards/manifest.json",
+      "size": 885
+    },
+    {
+      "path": "collect/400.jpg",
+      "size": 684789
+    },
+    {
+      "path": "collect/img_271c408224.jpg",
+      "size": 711159
+    },
+    {
+      "path": "collect/img_31a2709271.jpg",
+      "size": 713912
+    },
+    {
+      "path": "collect/img_37150efe31.jpg",
+      "size": 740186
+    },
+    {
+      "path": "collect/img_55da8a9c7a.jpg",
+      "size": 626200
+    },
+    {
+      "path": "collect/img_5a780ac719.jpg",
+      "size": 716922
+    },
+    {
+      "path": "collect/img_6aeeaace20.jpg",
+      "size": 713166
+    },
+    {
+      "path": "collect/img_737bbd84ed.jpg",
+      "size": 703336
+    },
+    {
+      "path": "collect/img_7610daa96c.jpg",
+      "size": 723479
+    },
+    {
+      "path": "collect/img_7b748eb857.jpg",
+      "size": 710675
+    },
+    {
+      "path": "collect/img_7c8eb5c849.jpg",
+      "size": 627133
+    },
+    {
+      "path": "collect/img_80a7f5ad99.png",
+      "size": 965455
+    },
+    {
+      "path": "collect/img_86be2efc8e.jpg",
+      "size": 727977
+    },
+    {
+      "path": "collect/img_8b4310f2d2.jpg",
+      "size": 712551
+    },
+    {
+      "path": "collect/img_8c91545379.jpg",
+      "size": 713017
+    },
+    {
+      "path": "collect/img_8d9ab9be88.jpg",
+      "size": 715473
+    },
+    {
+      "path": "collect/img_93d5c9d9b5.jpg",
+      "size": 626161
+    },
+    {
+      "path": "collect/img_b3431e7295.jpg",
+      "size": 698912
+    },
+    {
+      "path": "collect/img_b867e932ea.jpg",
+      "size": 726223
+    },
+    {
+      "path": "collect/img_c90e5d6d40.jpg",
+      "size": 724900
+    },
+    {
+      "path": "collect/img_c9984fa547.jpg",
+      "size": 709529
+    },
+    {
+      "path": "collect/img_e3e8e2a20c.png",
+      "size": 2212333
+    },
+    {
+      "path": "collect/img_ec2dc3a378.png",
+      "size": 790274
+    },
+    {
+      "path": "collect/img_f70f42c369.jpg",
+      "size": 738783
+    },
+    {
+      "path": "collect/img_f923762915.jpg",
+      "size": 720648
+    },
+    {
+      "path": "lion/character.glb",
+      "size": 2976152
+    },
+    {
+      "path": "lion/fp_character.glb",
+      "size": 10493292
+    },
+    {
+      "path": "lion/g01.glb",
+      "size": 120036
+    },
+    {
+      "path": "lion/g01_D.png",
+      "size": 91698
+    },
+    {
+      "path": "lion/g01_MAR.png",
+      "size": 22709
+    },
+    {
+      "path": "lion/g01_N.png",
+      "size": 120958
+    },
+    {
+      "path": "lion/g02.glb",
+      "size": 131448
+    },
+    {
+      "path": "lion/g02_D.png",
+      "size": 368470
+    },
+    {
+      "path": "lion/g02_MAR.png",
+      "size": 78202
+    },
+    {
+      "path": "lion/g02_N.png",
+      "size": 478845
+    },
+    {
+      "path": "lion/g03.glb",
+      "size": 122152
+    },
+    {
+      "path": "lion/g03_D.png",
+      "size": 108840
+    },
+    {
+      "path": "lion/g03_MAR.png",
+      "size": 22730
+    },
+    {
+      "path": "lion/g03_N.png",
+      "size": 91093
+    },
+    {
+      "path": "lion/g04.glb",
+      "size": 159876
+    },
+    {
+      "path": "lion/g04_D.png",
+      "size": 80711
+    },
+    {
+      "path": "lion/g04_MAR.png",
+      "size": 24494
+    },
+    {
+      "path": "lion/g04_N.png",
+      "size": 115680
+    },
+    {
+      "path": "lion/g05.glb",
+      "size": 217160
+    },
+    {
+      "path": "lion/g06.glb",
+      "size": 209352
+    },
+    {
+      "path": "lion/g06_D.png",
+      "size": 296473
+    },
+    {
+      "path": "lion/g06_MAR.png",
+      "size": 84116
+    },
+    {
+      "path": "lion/g06_N.png",
+      "size": 508231
+    },
+    {
+      "path": "lion/g07.glb",
+      "size": 255392
+    },
+    {
+      "path": "lion/g07_D.png",
+      "size": 322675
+    },
+    {
+      "path": "lion/g07_MAR.png",
+      "size": 90891
+    },
+    {
+      "path": "lion/g07_N.png",
+      "size": 459938
+    },
+    {
+      "path": "lion/g08.glb",
+      "size": 264772
+    },
+    {
+      "path": "lion/g08_D.png",
+      "size": 335262
+    },
+    {
+      "path": "lion/g08_MAR.png",
+      "size": 93249
+    },
+    {
+      "path": "lion/g08_N.png",
+      "size": 472766
+    },
+    {
+      "path": "lion/g09.glb",
+      "size": 512352
+    },
+    {
+      "path": "lion/g09_D.png",
+      "size": 353396
+    },
+    {
+      "path": "lion/g09_MAR.png",
+      "size": 94812
+    },
+    {
+      "path": "lion/g09_N.png",
+      "size": 468496
+    },
+    {
+      "path": "lion/g10.glb",
+      "size": 198788
+    },
+    {
+      "path": "lion/g10_D.png",
+      "size": 304455
+    },
+    {
+      "path": "lion/g10_MAR.png",
+      "size": 76681
+    },
+    {
+      "path": "lion/g10_N.png",
+      "size": 427016
+    },
+    {
+      "path": "lion/g11.glb",
+      "size": 226392
+    },
+    {
+      "path": "lion/g11_D.png",
+      "size": 291596
+    },
+    {
+      "path": "lion/g11_MAR.png",
+      "size": 81219
+    },
+    {
+      "path": "lion/g11_N.png",
+      "size": 486515
+    },
+    {
+      "path": "lion/g12.glb",
+      "size": 180104
+    },
+    {
+      "path": "lion/g12_D.png",
+      "size": 259661
+    },
+    {
+      "path": "lion/g12_MAR.png",
+      "size": 90569
+    },
+    {
+      "path": "lion/g12_N.png",
+      "size": 452726
+    },
+    {
+      "path": "lion/g13.glb",
+      "size": 495724
+    },
+    {
+      "path": "lion/g13_D.png",
+      "size": 300746
+    },
+    {
+      "path": "lion/g13_MAR.png",
+      "size": 91190
+    },
+    {
+      "path": "lion/g13_N.png",
+      "size": 490958
+    },
+    {
+      "path": "lion/g14.glb",
+      "size": 231188
+    },
+    {
+      "path": "lion/g14_D.png",
+      "size": 355037
+    },
+    {
+      "path": "lion/g14_MAR.png",
+      "size": 86768
+    },
+    {
+      "path": "lion/g14_N.png",
+      "size": 489036
+    },
+    {
+      "path": "lion/g15.glb",
+      "size": 226392
+    },
+    {
+      "path": "lion/g15_D.png",
+      "size": 322265
+    },
+    {
+      "path": "lion/g15_MAR.png",
+      "size": 80586
+    },
+    {
+      "path": "lion/g15_N.png",
+      "size": 483841
+    },
+    {
+      "path": "lion/g16.glb",
+      "size": 238968
+    },
+    {
+      "path": "lion/g16_D.png",
+      "size": 425080
+    },
+    {
+      "path": "lion/g16_MAR.png",
+      "size": 63919
+    },
+    {
+      "path": "lion/g16_N.png",
+      "size": 533045
+    },
+    {
+      "path": "lion/g17.glb",
+      "size": 460204
+    },
+    {
+      "path": "lion/g17_D.png",
+      "size": 366063
+    },
+    {
+      "path": "lion/g17_MAR.png",
+      "size": 92807
+    },
+    {
+      "path": "lion/g17_N.png",
+      "size": 485805
+    },
+    {
+      "path": "lion/g18.glb",
+      "size": 177236
+    },
+    {
+      "path": "lion/g18_D.png",
+      "size": 378694
+    },
+    {
+      "path": "lion/g18_MAR.png",
+      "size": 92573
+    },
+    {
+      "path": "lion/g18_N.png",
+      "size": 527253
+    },
+    {
+      "path": "lion/gloves_kurt_quit.glb",
+      "size": 134652
+    },
+    {
+      "path": "lion/gloves_kurt_uit.glb",
+      "size": 134652
+    },
+    {
+      "path": "lion/gloves_rolf_uit.glb",
+      "size": 184372
+    },
+    {
+      "path": "lion/gloves_snow_retarget.glb",
+      "size": 435800
+    },
+    {
+      "path": "lion/gloves_xmas_uit.glb",
+      "size": 231580
+    },
+    {
+      "path": "lion/items/atomic_clock.glb",
+      "size": 378900
+    },
+    {
+      "path": "lion/items/atomic_clock_D.png",
+      "size": 390885
+    },
+    {
+      "path": "lion/items/atomic_clock_MAR.png",
+      "size": 6575
+    },
+    {
+      "path": "lion/items/atomic_clock_N.png",
+      "size": 302274
+    },
+    {
+      "path": "lion/items/catapult_part.glb",
+      "size": 258940
+    },
+    {
+      "path": "lion/items/compute_module.glb",
+      "size": 374972
+    },
+    {
+      "path": "lion/items/compute_module_D.png",
+      "size": 378611
+    },
+    {
+      "path": "lion/items/compute_module_MAR.png",
+      "size": 2570
+    },
+    {
+      "path": "lion/items/compute_module_N.png",
+      "size": 324948
+    },
+    {
+      "path": "lion/items/dawn.glb",
+      "size": 244004
+    },
+    {
+      "path": "lion/items/dawn_D.png",
+      "size": 382341
+    },
+    {
+      "path": "lion/items/dawn_MAR.png",
+      "size": 4984
+    },
+    {
+      "path": "lion/items/dawn_N.png",
+      "size": 375555
+    },
+    {
+      "path": "lion/items/erision.glb",
+      "size": 352876
+    },
+    {
+      "path": "lion/items/erision_D.png",
+      "size": 110779
+    },
+    {
+      "path": "lion/items/erision_MAR.png",
+      "size": 6256
+    },
+    {
+      "path": "lion/items/erision_N.png",
+      "size": 93453
+    },
+    {
+      "path": "lion/items/feast_statue.glb",
+      "size": 137140
+    },
+    {
+      "path": "lion/items/feast_statue_D.png",
+      "size": 8747
+    },
+    {
+      "path": "lion/items/feast_statue_MAR.png",
+      "size": 447
+    },
+    {
+      "path": "lion/items/feast_statue_N.png",
+      "size": 7929
+    },
+    {
+      "path": "lion/items/gem_necklace.glb",
+      "size": 129560
+    },
+    {
+      "path": "lion/items/gem_necklace_D.png",
+      "size": 478277
+    },
+    {
+      "path": "lion/items/gem_necklace_MAR.png",
+      "size": 6749
+    },
+    {
+      "path": "lion/items/gem_necklace_N.png",
+      "size": 498439
+    },
+    {
+      "path": "lion/items/golden_palace.glb",
+      "size": 416568
+    },
+    {
+      "path": "lion/items/golden_palace_D.png",
+      "size": 371121
+    },
+    {
+      "path": "lion/items/golden_palace_MAR.png",
+      "size": 5205
+    },
+    {
+      "path": "lion/items/golden_palace_N.png",
+      "size": 382584
+    },
+    {
+      "path": "lion/items/golden_steed.glb",
+      "size": 198444
+    },
+    {
+      "path": "lion/items/gyro_ball.glb",
+      "size": 151532
+    },
+    {
+      "path": "lion/items/gyro_ball_D.png",
+      "size": 376173
+    },
+    {
+      "path": "lion/items/gyro_ball_MAR.png",
+      "size": 5882
+    },
+    {
+      "path": "lion/items/gyro_ball_N.png",
+      "size": 360041
+    },
+    {
+      "path": "lion/items/mech_arm.glb",
+      "size": 332484
+    },
+    {
+      "path": "lion/items/mech_arm_D.png",
+      "size": 379737
+    },
+    {
+      "path": "lion/items/mech_arm_MAR.png",
+      "size": 4675
+    },
+    {
+      "path": "lion/items/mech_arm_N.png",
+      "size": 341792
+    },
+    {
+      "path": "lion/items/new_frontier.glb",
+      "size": 229336
+    },
+    {
+      "path": "lion/items/new_frontier_D.png",
+      "size": 385695
+    },
+    {
+      "path": "lion/items/new_frontier_MAR.png",
+      "size": 5117
+    },
+    {
+      "path": "lion/items/new_frontier_N.png",
+      "size": 366080
+    },
+    {
+      "path": "lion/items/space_nav.glb",
+      "size": 474728
+    },
+    {
+      "path": "lion/items/target_module.glb",
+      "size": 453592
+    },
+    {
+      "path": "lion/items/target_module_D.png",
+      "size": 377710
+    },
+    {
+      "path": "lion/items/target_module_MAR.png",
+      "size": 3657
+    },
+    {
+      "path": "lion/items/target_module_N.png",
+      "size": 384162
+    },
+    {
+      "path": "lion/items/teapot.glb",
+      "size": 36056
+    },
+    {
+      "path": "lion/items/teapot_D.png",
+      "size": 107380
+    },
+    {
+      "path": "lion/items/teapot_MAR.png",
+      "size": 4238
+    },
+    {
+      "path": "lion/items/teapot_N.png",
+      "size": 89395
+    },
+    {
+      "path": "lion/items/vase.glb",
+      "size": 111696
+    },
+    {
+      "path": "lion/items/vase_D.png",
+      "size": 291777
+    },
+    {
+      "path": "lion/items/vase_MAR.png",
+      "size": 6363
+    },
+    {
+      "path": "lion/items/vase_N.png",
+      "size": 360812
+    },
+    {
+      "path": "lion/kurt_character.glb",
+      "size": 1735968
+    },
+    {
+      "path": "lion/lion.glb",
+      "size": 353016
+    },
+    {
+      "path": "lion/lion_D.png",
+      "size": 391768
+    },
+    {
+      "path": "lion/secretfile.glb",
+      "size": 78768
+    },
+    {
+      "path": "lion/secretfile_D.png",
+      "size": 360757
+    },
+    {
+      "path": "lion/secretfile_MA.png",
+      "size": 4280
+    },
+    {
+      "path": "lion/secretfile_N.png",
+      "size": 356726
+    },
+    {
+      "path": "lion/secretfile_character.glb",
+      "size": 2202672
+    },
+    {
+      "path": "lion/sniper_D.png",
+      "size": 322077
+    },
+    {
+      "path": "lion/sniper_MA.png",
+      "size": 482127
+    },
+    {
+      "path": "lion/sniper_MAR.png",
+      "size": 81278
+    },
+    {
+      "path": "lion/sniper_N.png",
+      "size": 482127
+    },
+    {
+      "path": "lion/snow_D.png",
+      "size": 366063
+    },
+    {
+      "path": "lion/snow_MAR.png",
+      "size": 92807
+    },
+    {
+      "path": "lion/snow_N.png",
+      "size": 485805
+    },
+    {
+      "path": "lion/xcompound.glb",
+      "size": 148532
+    },
+    {
+      "path": "lion/xcompound_D.png",
+      "size": 286978
+    },
+    {
+      "path": "lion/xcompound_MA.png",
+      "size": 4929
+    },
+    {
+      "path": "lion/xcompound_N.png",
+      "size": 293994
+    },
+    {
+      "path": "lion/xmas_D.png",
+      "size": 377756
+    },
+    {
+      "path": "lion/xmas_MAR.png",
+      "size": 81667
+    },
+    {
+      "path": "lion/xmas_N.png",
+      "size": 532752
+    }
+  ],
+  "totalSize": 51307030
+}
