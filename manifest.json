@@ -1,5 +1,5 @@
 {
-  "version": "v5",
+  "version": "v6",
   "files": [
     {
       "path": "avatars/6H2gtoUS.png",
@@ -180,6 +180,42 @@
     {
       "path": "lion/bernard_gloves_N.png",
       "size": 115866
+    },
+    {
+      "path": "lion/bernard_leg_D.png",
+      "size": 103229
+    },
+    {
+      "path": "lion/bernard_leg_MAR.png",
+      "size": 22484
+    },
+    {
+      "path": "lion/bernard_leg_N.png",
+      "size": 128372
+    },
+    {
+      "path": "lion/bernard_shoes_D.png",
+      "size": 26162
+    },
+    {
+      "path": "lion/bernard_shoes_MAR.png",
+      "size": 6115
+    },
+    {
+      "path": "lion/bernard_shoes_N.png",
+      "size": 27998
+    },
+    {
+      "path": "lion/bernard_torso_D.png",
+      "size": 125064
+    },
+    {
+      "path": "lion/bernard_torso_MAR.png",
+      "size": 22379
+    },
+    {
+      "path": "lion/bernard_torso_N.png",
+      "size": 123152
     },
     {
       "path": "lion/character.glb",
