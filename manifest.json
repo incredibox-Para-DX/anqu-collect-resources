@@ -1,5 +1,5 @@
 {
-  "version": "v6",
+  "version": "v7",
   "files": [
     {
       "path": "avatars/6H2gtoUS.png",
@@ -279,15 +279,15 @@
     },
     {
       "path": "lion/g04_D.png",
-      "size": 80711
+      "size": 93905
     },
     {
       "path": "lion/g04_MAR.png",
-      "size": 24494
+      "size": 25085
     },
     {
       "path": "lion/g04_N.png",
-      "size": 115680
+      "size": 115866
     },
     {
       "path": "lion/g05.glb",
